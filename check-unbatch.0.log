@@ -1,0 +1,188 @@
+2022-06-12 14:47:01.813612 [net info] starting all threads...
+2022-06-12 14:47:01.815975 [net info] starting all threads...
+2022-06-12 14:47:01.819504 [net info] listening to 9000
+2022-06-12 14:47:01.824907 [net info] listening to 10000
+2022-06-12 14:47:01.826046 [net info] created <Conn fd=30 addr=<NetAddr 127.0.0.1:10001> mode=active>
+2022-06-12 14:47:01.827568 [net info] created <Conn fd=37 addr=<NetAddr 127.0.0.1:10002> mode=active>
+2022-06-12 14:47:01.826656 [net info] created <Conn fd=35 addr=<NetAddr 127.0.0.1:9001> mode=active>
+2022-06-12 14:47:01.828383 [net info] created <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:01.828004 [net info] created <Conn fd=39 addr=<NetAddr 127.0.0.1:10003> mode=active>
+2022-06-12 14:47:01.828922 [net info] created <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:02.826588 [net info] connected to remote <Conn fd=30 addr=<NetAddr 127.0.0.1:10001> mode=active>
+2022-06-12 14:47:02.828738 [net info] connected to remote <Conn fd=37 addr=<NetAddr 127.0.0.1:10002> mode=active>
+2022-06-12 14:47:02.827363 [net info] connected to remote <Conn fd=35 addr=<NetAddr 127.0.0.1:9001> mode=active>
+2022-06-12 14:47:02.829681 [net info] connected to remote <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:02.829269 [net info] connected to remote <Conn fd=39 addr=<NetAddr 127.0.0.1:10003> mode=active>
+2022-06-12 14:47:02.830440 [net info] 5d46afd81d: setup connection <Conn fd=30 addr=<NetAddr 127.0.0.1:10001> mode=active>
+2022-06-12 14:47:02.830071 [net info] connected to remote <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:02.831603 [net info] 884cc32cc0: setup connection <Conn fd=35 addr=<NetAddr 127.0.0.1:9001> mode=active>
+2022-06-12 14:47:02.832273 [net info] 884cc32cc0: setup connection <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:02.832632 [net info] 884cc32cc0: setup connection <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:02.832738 [net info] 5d46afd81d: setup connection <Conn fd=37 addr=<NetAddr 127.0.0.1:10002> mode=active>
+2022-06-12 14:47:02.833533 [net info] 5d46afd81d: setup connection <Conn fd=39 addr=<NetAddr 127.0.0.1:10003> mode=active>
+2022-06-12 14:47:03.316464 [net info] accepted <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:03.317176 [net info] 5d46afd81d: setup connection <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:03.318315 [net info] accepted <Conn fd=47 addr=<NetAddr 127.0.0.1:46002> mode=passive>
+2022-06-12 14:47:03.332363 [net info] accepted <Conn fd=49 addr=<NetAddr 127.0.0.1:46004> mode=passive>
+2022-06-12 14:47:03.334544 [net info] 884cc32cc0: setup connection <Conn fd=47 addr=<NetAddr 127.0.0.1:46002> mode=passive>
+2022-06-12 14:47:03.340510 [net info] accepted <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:03.341055 [net info] 884cc32cc0: setup connection <Conn fd=49 addr=<NetAddr 127.0.0.1:46004> mode=passive>
+2022-06-12 14:47:03.350246 [net info] accepted <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:03.351165 [net info] 884cc32cc0: setup connection <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:03.351918 [net info] established 5d46afd81d <---> cd50981188 (via <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>)
+2022-06-12 14:47:03.352713 [net info] 5d46afd81d: setup connection <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:03.354690 [net info] accepted <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:03.357251 [net info] 5d46afd81d: setup connection <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:03.355322 [net info] 884cc32cc0: lost connection <Conn fd=47 addr=<NetAddr 127.0.0.1:46002> mode=passive>
+2022-06-12 14:47:03.358086 [net info] 884cc32cc0: lost connection <Conn fd=49 addr=<NetAddr 127.0.0.1:46004> mode=passive>
+2022-06-12 14:47:03.358714 [net info] established 884cc32cc0 <---> 3b52c9bd57 (via <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>)
+2022-06-12 14:47:03.359568 [net info] established 5d46afd81d <---> 09386f4d8a (via <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>)
+2022-06-12 14:47:03.360316 [net info] established 5d46afd81d <---> b110160655 (via <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>)
+2022-06-12 14:47:03.855200 [net info] 884cc32cc0: lost connection <Conn fd=35 addr=<NetAddr 127.0.0.1:9001> mode=active>
+2022-06-12 14:47:03.862752 [net info] established 884cc32cc0 <---> 292aae3b96 (via <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>)
+2022-06-12 14:47:03.863840 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:03.864467 [net info] 5d46afd81d: lost connection <Conn fd=39 addr=<NetAddr 127.0.0.1:10003> mode=active>
+2022-06-12 14:47:03.866759 [net info] established 884cc32cc0 <---> 42db747ba0 (via <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>)
+2022-06-12 14:47:03.867223 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:03.867025 [net info] 5d46afd81d: lost connection <Conn fd=37 addr=<NetAddr 127.0.0.1:10002> mode=active>
+2022-06-12 14:47:03.868809 [net info] 5d46afd81d: lost connection <Conn fd=30 addr=<NetAddr 127.0.0.1:10001> mode=active>
+2022-06-12 14:47:04.364491 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:04.365211 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:04.366023 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:04.370411 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:06.406069 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:06.618328 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+2022-06-12 14:47:06.724731 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:06.875418 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:07.000238 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:07.311001 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+NEW ROUND
+NEW ROUND
+2022-06-12 14:47:09.041398 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:09.330925 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:09.334850 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+NEW ROUND
+2022-06-12 14:47:11.057574 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:11.460825 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:11.491210 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:11.732879 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+NEW ROUND
+2022-06-12 14:47:11.921126 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+NEW ROUND
+2022-06-12 14:47:12.806939 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:13.459741 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+NEW ROUND
+2022-06-12 14:47:13.972888 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:14.489894 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+NEW ROUND
+2022-06-12 14:47:15.755598 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:15.863846 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:16.496923 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+NEW ROUND
+2022-06-12 14:47:16.761292 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:16.982438 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+2022-06-12 14:47:17.770816 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:18.248211 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+NEW ROUND
+2022-06-12 14:47:18.837838 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:18.897666 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+NEW ROUND
+2022-06-12 14:47:19.751219 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:20.648856 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:20.739888 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+NEW ROUND
+2022-06-12 14:47:20.960690 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+NEW ROUND
+2022-06-12 14:47:22.640990 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:22.670890 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+2022-06-12 14:47:22.813794 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:23.046648 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:23.567338 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:23.757103 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+NEW ROUND
+2022-06-12 14:47:24.707038 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+NEW ROUND
+2022-06-12 14:47:25.066541 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:25.334579 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+2022-06-12 14:47:26.230862 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:26.735007 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+NEW ROUND
+2022-06-12 14:47:26.792473 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:27.609409 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+NEW ROUND
+2022-06-12 14:47:27.791810 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:27.933891 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+NEW ROUND
+2022-06-12 14:47:29.201314 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:29.735320 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+NEW ROUND
+2022-06-12 14:47:30.121762 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:30.330696 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+NEW ROUND
+2022-06-12 14:47:30.879302 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:31.714650 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+NEW ROUND
+2022-06-12 14:47:31.793092 [net info] 5d46afd81d: ping from <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:32.746487 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+NEW ROUND
+2022-06-12 14:47:32.861568 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:33.052782 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:33.304188 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+NEW ROUND
+2022-06-12 14:47:34.645034 [net info] 884cc32cc0: ping from <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+NEW ROUND
+2022-06-12 14:47:34.881282 [net info] 5d46afd81d: ping from <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:35.146308 [net info] 884cc32cc0: ping from <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:35.406662 [net info] 884cc32cc0: ping from <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+NEW ROUND
+2022-06-12 14:47:35.879983 [net info] 5d46afd81d: ping from <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:36.772087 [net info] stopping all threads...
+2022-06-12 14:47:36.784795 [net info] 5d46afd81d: lost connection <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>
+2022-06-12 14:47:36.785328 [net info] ended 5d46afd81d <-/-> b110160655 (via <Conn fd=54 addr=<NetAddr 127.0.0.1:34034> mode=passive>)
+2022-06-12 14:47:36.785641 [net info] 5d46afd81d: lost connection <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>
+2022-06-12 14:47:36.786014 [net info] ended 5d46afd81d <-/-> 09386f4d8a (via <Conn fd=51 addr=<NetAddr 127.0.0.1:34032> mode=passive>)
+2022-06-12 14:47:36.786471 [net info] 5d46afd81d: lost connection <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>
+2022-06-12 14:47:36.786753 [net info] ended 5d46afd81d <-/-> cd50981188 (via <Conn fd=45 addr=<NetAddr 127.0.0.1:34028> mode=passive>)
+2022-06-12 14:47:36.811829 [net info] stopping all threads...
+2022-06-12 14:47:36.812253 [net info] 884cc32cc0: lost connection <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>
+2022-06-12 14:47:36.813848 [net info] ended 884cc32cc0 <-/-> 3b52c9bd57 (via <Conn fd=29 addr=<NetAddr 127.0.0.1:46006> mode=passive>)
+2022-06-12 14:47:36.814485 [net info] 884cc32cc0: lost connection <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>
+2022-06-12 14:47:36.815917 [net info] ended 884cc32cc0 <-/-> 292aae3b96 (via <Conn fd=43 addr=<NetAddr 127.0.0.1:9003> mode=active>)
+2022-06-12 14:47:36.816170 [net info] 884cc32cc0: lost connection <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>
+2022-06-12 14:47:36.816407 [net info] ended 884cc32cc0 <-/-> 42db747ba0 (via <Conn fd=41 addr=<NetAddr 127.0.0.1:9002> mode=active>)
+type: unbatch, round: 1, propose: 0
+type: unbatch, round: 2, propose: 0
+type: unbatch, round: 3, propose: 1300
+type: unbatch, round: 4, propose: 3900
+type: unbatch, round: 5, propose: 5900
+type: unbatch, round: 6, propose: 11100
+type: unbatch, round: 7, propose: 24000
+type: unbatch, round: 8, propose: 43700
+type: unbatch, round: 9, propose: 82600
+type: unbatch, round: 10, propose: 165000
+type: unbatch, round: 11, propose: 262500
+type: unbatch, round: 12, propose: 336700
+type: unbatch, round: 13, propose: 407300
+type: unbatch, round: 14, propose: 470400
+type: unbatch, round: 15, propose: 576900
+type: unbatch, round: 16, propose: 631800
+type: unbatch, round: 17, propose: 687100
+type: unbatch, round: 18, propose: 796300
+type: unbatch, round: 19, propose: 858700
+type: unbatch, round: 20, propose: 956400
+type: unbatch, round: 21, propose: 982600
+type: unbatch, round: 22, propose: 1077300
+type: unbatch, round: 23, propose: 1093500
+type: unbatch, round: 24, propose: 1198900
+type: unbatch, round: 25, propose: 1223000
+type: unbatch, round: 26, propose: 1312100
+type: unbatch, round: 27, propose: 1375500
+type: unbatch, round: 28, propose: 1488400
+type: unbatch, round: 29, propose: 1565000
+type: unbatch, round: 30, propose: 1587400

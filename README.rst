@@ -269,3 +269,17 @@ Using MsgNetwork class
        ec.dispatch();
        return 0;
    }
+
+Prototype of HotStuff
+----------------------
+main.cpp is a test program that simulates both the classic and streamed version of
+HotStuff, based on salticidae.
+
+In order to test the different versions of this prototype with a simulated network
+latency of 500 ms use the following commands:
+
+::
+
+  sudo tc qdisc add dev lo root netem delay 500ms
+  ./check.sh
+  sudo tc qdisc delete dev lo root
